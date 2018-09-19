@@ -1,1 +1,5 @@
 Returns-Appointment-Booking
+
+An Internal automated bookings system that captures users data and posts to a slack channel via a python scrpit.
+
+User info is entered into a static HTML page which posts values submitted to a python script. The python script then in turn
